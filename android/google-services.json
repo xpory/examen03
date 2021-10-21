@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "552517376281",
+    "firebase_url": "https://parcial03-80fd6-default-rtdb.firebaseio.com",
+    "project_id": "parcial03-80fd6",
+    "storage_bucket": "parcial03-80fd6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552517376281:android:fbd6eba542ae0e07bf4d88",
+        "android_client_info": {
+          "package_name": "com.example.examen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552517376281-ou2i7a8ad92o4mj3qqfjck1p9e2n2gvk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADGwy2btl455nK-Zf6CKPRMBq4nXUgVGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552517376281-ou2i7a8ad92o4mj3qqfjck1p9e2n2gvk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552517376281:android:41d426b82c71d2f8bf4d88",
+        "android_client_info": {
+          "package_name": "com.example.examen_parcial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552517376281-ou2i7a8ad92o4mj3qqfjck1p9e2n2gvk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADGwy2btl455nK-Zf6CKPRMBq4nXUgVGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552517376281-ou2i7a8ad92o4mj3qqfjck1p9e2n2gvk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
